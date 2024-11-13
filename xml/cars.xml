@@ -1,0 +1,112 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<autos>
+	<!-- Categoría: SUV -->
+	<categoria nombre="SUV">
+		<auto>
+			<marca>Toyota</marca>
+			<modelo>Land Cruiser</modelo>
+			<anio>2022</anio>
+			<precio moneda="USD">85000</precio>
+			<color>Negro</color>
+			<descripcion>SUV de lujo con tracción en las 4 ruedas</descripcion>
+			<imagen>assets/img/TOYOTA_LAND_CRUISER_2022.jpg</imagen>
+		</auto>
+		<auto>
+			<marca>Ford</marca>
+			<modelo>Explorer</modelo>
+			<anio>2021</anio>
+			<precio moneda="USD">55000</precio>
+			<color>Blanco</color>
+			<descripcion>SUV espacioso y cómodo, ideal para familia</descripcion>
+			<imagen>assets/img/FordExplorer_2021.jpg</imagen> <!--CAMBIAR-->
+		</auto>
+	</categoria>
+
+	<!-- Categoría: Sedanes -->
+	<categoria nombre="Sedanes">
+		<auto>
+			<marca>Honda</marca>
+			<modelo>Civic</modelo>
+			<anio>2023</anio>
+			<precio moneda="USD">25000</precio>
+			<color>Rojo</color>
+			<descripcion>Sedan compacto, eficiente en consumo de gasolina</descripcion>
+			<imagen>assets/img/HondaCivic_2023.jpg</imagen>
+		</auto>
+		<auto>
+			<marca>BMW</marca>
+			<modelo>Serie 3</modelo>
+			<anio>2023</anio>
+			<precio moneda="USD">45000</precio>
+			<color>Azul</color>
+			<descripcion>Sedan de lujo con gran rendimiento y tecnología</descripcion>
+			<imagen>assets/img/BMWSerie3-2023.jpg</imagen>
+		</auto>
+	</categoria>
+
+	<!-- Categoría: Deportivos -->
+	<categoria nombre="Deportivos">
+		<auto>
+			<marca>Ferrari</marca>
+			<modelo>488 GTB</modelo>
+			<anio>2021</anio>
+			<precio moneda="USD">350000</precio>
+			<color>Amarillo</color>
+			<descripcion>Deportivo de alto rendimiento, diseño elegante</descripcion>
+			<imagen>assets/img/Ferrari488_GTB_2021.jpg</imagen>
+		</auto>
+		<auto>
+			<marca>Porsche</marca>
+			<modelo>911</modelo>
+			<anio>2023</anio>
+			<precio moneda="USD">120000</precio>
+			<color>Plata</color>
+			<descripcion>Automóvil deportivo con potencia y agilidad excepcionales</descripcion>
+			<imagen>assets/img/Porsche911_2023.jpg</imagen>
+		</auto>
+	</categoria>
+
+	<!-- Categoría: Camionetas -->
+	<categoria nombre="Camionetas">
+		<auto>
+			<marca>Chevrolet</marca>
+			<modelo>Silverado</modelo>
+			<anio>2020</anio>
+			<precio moneda="USD">40000</precio>
+			<color>Negro</color>
+			<descripcion>Camioneta robusta para trabajo pesado y aventuras</descripcion>
+			<imagen>assets/img/ChevroletSilverado_2020.jpg</imagen>
+		</auto>
+		<auto>
+			<marca>Ram</marca>
+			<modelo>1500</modelo>
+			<anio>2022</anio>
+			<precio moneda="USD">42000</precio>
+			<color>Gris</color>
+			<descripcion>Camioneta con excelentes capacidades de remolque y confort</descripcion>
+			<imagen>assets/img/Ram1500_2022.jpg</imagen>
+		</auto>
+	</categoria>
+
+	<!-- Categoría: Eléctricos -->
+	<categoria nombre="Eléctricos">
+		<auto>
+			<marca>Tesla</marca>
+			<modelo>Model 3</modelo>
+			<anio>2023</anio>
+			<precio moneda="USD">45000</precio>
+			<color>Blanco</color>
+			<descripcion>Vehículo eléctrico de alto rendimiento y bajo impacto ambiental</descripcion>
+			<imagen>assets/img/TeslaModel3_2023.jpeg</imagen>
+		</auto>
+		<auto>
+			<marca>Rivian</marca>
+			<modelo>R1T</modelo>
+			<anio>2022</anio>
+			<precio moneda="USD">70000</precio>
+			<color>Verde</color>
+			<descripcion>Camioneta eléctrica para aventura con gran autonomía</descripcion>
+			<imagen>assets/img/RivianR1T2022.jpg</imagen>
+		</auto>
+	</categoria>
+</autos>
